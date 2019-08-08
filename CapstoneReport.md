@@ -34,31 +34,8 @@ available at Foursquare. The aim of this report is to take available data and us
 might appeal to older consumers. This data will allow producers of products targeting this market to identify locations for shops, 
 advertising, and product placement.
 
-#SAMPLE
-The project is a pilot study that begins by analyzing cases in Florida. Data from the US census on median age is used to construct a 
-set of 3 cities with an older median age and a set of 3 cities with a young median age. The model resulting from these comparisons
-will be used to evaluate neighborhoods in a familar city in Florida. The older cities all have median ages over 45 and are: Boca Raton,
-Naples, aNaples, and Sarasota. The younger cities all have median ages below 34 and are: Gainesville, Tallahassee, Orlando
-
-The project will use data from the US census as queried through google to identify cities that have high median ages
-The aim of this project is to identify businesses and neighborhoods that appeal 
-to older consumers. This information can be used to open a shop that targets this market, drive decisions about on site advertising, or 
-product placement. 
-
-
-I am interested in opening a shop, advertising or placing products in an environment that appeals to older 
-The business problem is to identify whether a neighbohood attracts older shoppers. Consumers over 55 are generally thought 
-of as not being social media savvy. At the same time they have disposible income and are at the height of their economic power. 
-The aim of this project is to use demographics to try to uncover businesses that hold appeal to over 55 shoppers. 
-
-It is generally thought that 
-people over 55 are not social media savvy. The aim of this project is to be a pilot study and to use demographics to infer whether
-a particular neighborhood 
-shopping preferences of the over 55.
-
-
-get a better sense of the kinds of businesses
-where people over 55 are shopping.
+# SAMPLE
+This pilot study analyzes data from at most 6 cities in Florida. Cities were selected using median age data from the US census. Three cities represent older cities with a median age higher than 45 (Boca Raton, Naples, Homosassa Springs,mean=56) and three cities represent younger cities with a median age below 35 (Kissimmee, Gainesville, Tallahassee, mean=28). Citywide data on foursquare will be probed and the frequency of different classes of businesses will be computed for each city. This information will be used to classify neighborhoods (15 zip codes) in Metro Orlando Florida. Ground truth is census data for age and personal observation as a native of Orlando.
 
 # SAMPLE
 # DATABASE
